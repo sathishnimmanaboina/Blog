@@ -1,4 +1,4 @@
-# 🤖 AI & Generative AI Updates (2025)
+# 🤖 AI Updates (2025) that I personally loved
 ## An 11-Day Exploration of Practical AI System Shifts
 
 This repository documents a **focused 11-day exploration of recent AI and Generative AI updates**, highlighting changes that meaningfully impacted **how AI systems are built, deployed, and used in real-world workflows**.
